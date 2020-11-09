@@ -29,7 +29,7 @@ type in the following command :
 Then run the following commands to create a new React Native project called "AwesomeProject":
 > expo init AwesomeProject
 
-<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs_commandprompt10.png" alt="Node.js Download">
+<!--- <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs_commandprompt10.png" alt="Node.js Download"> --->
 
 ## Run a React Project Application:
 To run our new project, we need to use the command prompt to change to the project folder, then start it. The cd your-project-name command will take us to the your-project-name
@@ -37,12 +37,10 @@ You need virtual device ( Android Studio ) or physical mobile or web every platf
 
 ## The npm start command will run the project application:
 > npm start or expo start
-
-<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs_commandprompt11.png" alt="Node.js Download">
+<!--- <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/nodejs_commandprompt11.png" alt="Node.js Download"> --->
 
 Next, the default browser will open and load the project:
-
-<img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/localhost.png" alt="Node.js Download"/>
+<!--- <img src="https://github.com/deepbag/How-to-install-React-in-Windows/blob/master/img/localhost.png" alt="Node.js Download"/> --->
 
 You now have your environment set for building out projects!
 
